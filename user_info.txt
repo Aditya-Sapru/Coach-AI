@@ -1,0 +1,5 @@
+User Profile:
+Name: Aditya
+Age: 20
+Gender: male
+Weight: 79.0
